@@ -1,0 +1,2 @@
+﻿  ConsoleApplication2.cpp
+LINK : fatal error LNK1181: 无法打开输入文件“Dll1.dll”

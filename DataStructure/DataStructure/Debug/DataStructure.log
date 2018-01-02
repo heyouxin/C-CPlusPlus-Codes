@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(DataStructure_Sort.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  pointers.cpp
+  Tree.cpp
+  Sort.cpp
+  List.cpp
+  正在生成代码...
+  DataStructure.vcxproj -> C:\Users\heyouxin\Documents\C C++ codes\DataStructure\Debug\DataStructure.exe

@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  makeDLL.cpp
+  dllmain.cpp
+  createdll.cpp
+  正在生成代码...
+    正在创建库 C:\Users\heyouxin\source\repos\makeDLL\Debug\makeDLL.lib 和对象 C:\Users\heyouxin\source\repos\makeDLL\Debug\makeDLL.exp
+  makeDLL.vcxproj -> C:\Users\heyouxin\source\repos\makeDLL\Debug\makeDLL.dll
